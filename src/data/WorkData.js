@@ -20,7 +20,7 @@ export const Work = [
     },
     {
         id:3,
-        name:"Dev.to Clone",
+        name:"An Online tMovie Website",
         description:"Developed a responsive single page application allowing users to create an account, book movies, receive tickets, read information about movies, news and more...",
         tags:["ReactJS","React Context API","Styled Component"],
         
